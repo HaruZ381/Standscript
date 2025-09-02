@@ -1,5 +1,4 @@
 -- Player Control Settings
-getgenv().TargetUsername = "TênTàiKhoảnChính"
 getgenv().standPosition = "right"
 getgenv().PerformanceMode = false
 
@@ -26,3 +25,4 @@ getgenv().SummonQuote1 = "Hmph. Let's get this over with."
 getgenv().SummonQuote2 = "The World at your service."
 getgenv().DisappearQuote1 = "You've got it. I'm out of here"
 getgenv().DisappearQuote2 = "Fine. Don't mess this up"
+
